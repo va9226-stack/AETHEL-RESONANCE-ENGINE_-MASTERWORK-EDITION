@@ -1,0 +1,8 @@
+
+{
+  "name": "Aethel Resonance Engine: Masterwork Edition",
+  "description": "The definitive implementation of λ-logic semantic alignment. Evaluates the XNOR resonance between conceptual vectors using deep-thinking models and auditory synthesis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
